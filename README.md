@@ -9,7 +9,7 @@
 -->
 
 - 🔭 I’m currently working on sharing more of the little tools I have here and there.
-- 🌱 I’m currently learning more about Apple Unified Logs.
+- 🌱 Learning about Apple Unified Logs!
 - 💬 Ask me about coffee, mushrooms and my dog.
 - 📫 How to reach me: hei[at]lorenacw[dot]com
 - 😄 Pronouns: ma'am
